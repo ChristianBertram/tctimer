@@ -93,7 +93,7 @@ var allDates = [
 	textDate: "Fra 6. jan. 2017 til 10. jan. 2017"
     },
     {
-	name: "TalentCamp Farum",
+	name: "TalentWeek Farum",
 	grade7: true,
 	grade8: true,
 	grade9: true,
@@ -105,7 +105,7 @@ var allDates = [
 	textDate: "Fra 23. jul. 2017 til 28. jul. 2017"
     },
     {
-	name: "TalentCamp Hjørring",
+	name: "TalentWeek Hjørring",
 	grade7: true,
 	grade8: true,
 	grade9: true,
