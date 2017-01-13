@@ -92,7 +92,7 @@ var allDates = [
 	dateTo: "1/10/2017 03:00 AM",
 	textDate: "Fra 6. jan. 2017 til 10. jan. 2017"
     },
-    }
+    {
 	name: "TalentCamp Stenløse",
 	grade7: false,
 	grade8: false,
