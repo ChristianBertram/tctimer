@@ -81,7 +81,7 @@ var allDates = [
 	textDate: "Fra 16. dec. 2016 til 20. dec. 2016"
     },
     {
-	name: "TalentCamp Kolding",
+	name: "TalentCamp Nyborg",
 	grade7: false,
 	grade8: false,
 	grade9: true,
@@ -91,6 +91,42 @@ var allDates = [
 	dateFrom: "1/6/2017 10:00 AM",
 	dateTo: "1/10/2017 03:00 AM",
 	textDate: "Fra 6. jan. 2017 til 10. jan. 2017"
+    },
+    }
+	name: "TalentCamp Stenløse",
+	grade7: false,
+	grade8: false,
+	grade9: true,
+	eng: true,
+	dan: true,
+	mat: false,
+	dateFrom: "1/6/2017 10:00 AM",
+	dateTo: "1/10/2017 03:00 AM",
+	textDate: "Fra 6. jan. 2017 til 10. jan. 2017"
+    },
+    {
+	name: "TalentCamp Lyngby",
+	grade7: false,
+	grade8: true,
+	grade9: false,
+	eng: false,
+	dan: false,
+	mat: true,
+	dateFrom: "1/27/2017 10:00 AM",
+	dateTo: "1/31/2017 03:00 AM",
+	textDate: "Fra 27. jan. 2017 til 31. jan. 2017"
+    },
+    {
+	name: "TalentCamp Brønderslev",
+	grade7: false,
+	grade8: true,
+	grade9: false,
+	eng: true,
+	dan: true,
+	mat: false,
+	dateFrom: "1/27/2017 10:00 AM",
+	dateTo: "1/31/2017 03:00 AM",
+	textDate: "Fra 27. jan. 2017 til 31. jan. 2017"
     },
     {
 	name: "TalentWeek Farum",
